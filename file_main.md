@@ -1,0 +1,1 @@
+File testando o merge entre as branchas.
